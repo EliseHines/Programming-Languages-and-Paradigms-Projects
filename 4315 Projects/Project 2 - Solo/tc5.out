@@ -1,0 +1,15 @@
+#function
+w=f("so","did","we")
+e=f(1,2,"you")
+p = f(5,34,7)
+    l1 = []
+#warning
+    l2 = []
+    l1.append(x)
+    l2.append(y)
+q=g(1,"s1")
+m = g("to","you")
+#warning
+p = "var"
+#warning
+m = 45

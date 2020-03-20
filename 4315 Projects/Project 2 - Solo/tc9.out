@@ -1,0 +1,12 @@
+w = 4
+#error
+z = w + "s"
+#comment
+m = "trs" + "str"
+k = "2"
+#warning
+w = k
+z = w
+m = "okay"
+#error
+k = m + 2

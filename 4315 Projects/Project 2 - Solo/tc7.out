@@ -1,0 +1,17 @@
+a = 40
+b = 90
+c = 45
+d = "str"
+    x=45
+    x=100
+x="am"
+#error
+y=d+x
+#warning
+    b="pm"
+    f=x+"tomorrow"+"never"+"dies"
+#error
+    g=a+x
+w = f * d
+#error
+y = f + d + 5

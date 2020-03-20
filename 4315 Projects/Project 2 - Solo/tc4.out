@@ -1,0 +1,16 @@
+#if-else
+a=34
+b=46
+c="str1"
+if a==b:
+#error
+    s1=a+b
+#error
+    s2=b+c
+    b="str2"
+#error
+    d=a+"str3"
+x="w1"
+if a==x:
+#error
+    m=x+3 
